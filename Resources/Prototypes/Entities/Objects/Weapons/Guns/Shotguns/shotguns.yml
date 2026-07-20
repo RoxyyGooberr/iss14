@@ -43,6 +43,7 @@
         ents: []
   - type: StaticPrice
     price: 500
+  - type: GunshotResidueSource
 
 - type: entity
   name: Bulldog
@@ -101,6 +102,7 @@
   - type: Appearance
   - type: StaticPrice
     price: 5000
+  - type: GunshotResidueSource
 
 - type: entity
   name: double-barreled shotgun
